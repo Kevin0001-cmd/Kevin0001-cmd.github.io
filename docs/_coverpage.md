@@ -7,5 +7,5 @@
 - 本仓库收集了本人的一些学习和思考的过程
     
 
-[GitHub](<https://kevin0001-cmd.github.io/>)
+[GitHub](<https://github.com/Kevin0001-cmd/>)
 [开始阅读](README.md)
