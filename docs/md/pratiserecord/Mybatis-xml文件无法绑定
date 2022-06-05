@@ -1,0 +1,44 @@
+# 背景
+Springboot整合Mybatis
+
+# 问题
+Mapper接口始终无法与mapper.xml文件绑定
+
+# 探索
+1. 确认mapper接口的扫描配置：@MapperScan
+2. 确认mapper.xml文件的扫描配置：mybatis.mapper-locations
+3. 确认mapper.xml文件是否有错误，例如路径名不正确的情况
+
+经确认，以上三点没有问题。
+
+那可能是打包文件的时候没有把配置文件放进去，查看确实没有放进去
+
+增加如下内容即可
+```
+<build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+        </plugins>
+        <!--插件配置-->
+        <resources>
+            <resource>
+                <directory>src/main/java</directory>
+                <!--包含了src/main/java目录下的所有xml资源配置文件-->
+                <includes>
+                    <include>**/*.xml</include>
+                </includes>
+            </resource>
+            <resource>
+                <directory>src/main/resources</directory>
+                <includes>
+                    <!--包含了src/main/resources目录下的所有资源配置文件,有别的格式的配置文件时，不要写成**/*.xml-->
+                    <include>**/*</include>
+                </includes>
+                <filtering>false</filtering>
+            </resource>
+        </resources>
+    </build>
+```
