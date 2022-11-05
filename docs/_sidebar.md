@@ -9,6 +9,13 @@
             
     - 环境配置
         - [Anaconda安装包报错](/md/machineLearning/anaconda/anaconda安装包报错.md) 
-    
+        
+        -[谷歌Colaboratory](/md/machineLearning/googleColab/谷歌Colaboratory.md)
+        
     - Tensorflow   
         - [tf.GradientTape()](/md/machineLearning/tensorflow/tf.GradientTape())
+        
+        - [tf.keras.losses](/md/machineLearning/tensorflow/loss)
+
+    - 日常问题
+        - [SpringBoot项目目录不变色问题](/md/machineLearning/practise/springboot项目问题.md)
