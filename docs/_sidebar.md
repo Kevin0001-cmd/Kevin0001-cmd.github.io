@@ -18,4 +18,7 @@
         - [tf.keras.losses](/md/machineLearning/tensorflow/loss)
 
     - 日常问题
-        - [SpringBoot项目目录不变色问题](/md/machineLearning/practise/springboot项目问题.md)
+        - [SpringBoot项目目录不变色问题](/md/java/practise/springboot项目问题.md)
+
+    - Tensorflow
+        - [数据预处理](/md/machineLearning/expr/数据预处理.md)
