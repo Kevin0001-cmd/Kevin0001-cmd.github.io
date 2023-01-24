@@ -10,7 +10,7 @@
     - 环境配置
         - [Anaconda安装包报错](/md/machineLearning/anaconda/anaconda安装包报错.md) 
         
-        -[谷歌Colaboratory](/md/machineLearning/googleColab/谷歌Colaboratory.md)
+        - [谷歌Colaboratory](/md/machineLearning/googleColab/谷歌Colaboratory.md)
         
     - Tensorflow   
         - [tf.GradientTape()](/md/machineLearning/tensorflow/tf.GradientTape())
