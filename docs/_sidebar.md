@@ -22,3 +22,6 @@
 
     - Tensorflow
         - [数据预处理](/md/machineLearning/expr/数据预处理.md)
+
+    - Redis
+        - [主从复制](/md/java/Redis/replication.md)
