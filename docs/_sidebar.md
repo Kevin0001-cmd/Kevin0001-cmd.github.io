@@ -9,7 +9,9 @@
             
     - 环境配置
         - [Anaconda安装包报错](/md/machineLearning/anaconda/anaconda安装包报错.md) 
-        
+
+        - [Anaconda常用命令](/md/machineLearning/anaconda/anaconda常用命令.md)
+
         - [谷歌Colaboratory](/md/machineLearning/googleColab/谷歌Colaboratory.md)
         
     - Tensorflow   
