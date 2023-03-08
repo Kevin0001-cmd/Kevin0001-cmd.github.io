@@ -13,6 +13,8 @@
         - [Anaconda常用命令](/md/machineLearning/anaconda/anaconda常用命令.md)
 
         - [谷歌Colaboratory](/md/machineLearning/googleColab/谷歌Colaboratory.md)
+
+        - [tensorflow-gpu等包的安装](/md/machineLearning/anaconda/tensorflow-gpu.md)
         
     - Tensorflow   
         - [tf.GradientTape()](/md/machineLearning/tensorflow/tf.GradientTape())
