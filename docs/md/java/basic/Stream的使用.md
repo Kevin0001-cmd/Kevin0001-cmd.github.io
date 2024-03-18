@@ -74,6 +74,7 @@
 
         //映射 Stream中包含5个映射方法：map、mapToDouble、mapToInt、mapToLong和flatMap
         List<String> nameList = list.stream().map(User::getName).collect(Collectors.toList());
+        BigDecimal sum = users.stream().map(User::getCj).reduce(BigDecimal.ZERO, BigDecimal::add)
         System.out.println("--------------映射----------------");
         System.out.println(nameList);
 
