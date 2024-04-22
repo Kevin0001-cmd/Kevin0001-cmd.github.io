@@ -2,3 +2,12 @@
   * [20min可以做什么](/md/life/thinking/二十分钟可以做什么.md)
 * 阅读
   * [食品安全很重要](/md/life/reading/食品安全.md)
+* 课程学习
+  * [左耳耗子](/md/life/course/左耳耗子.md)
+* 学习技巧
+  * [搜索引擎使用技巧](/md/life/sthElse/搜索引擎使用技巧.md)
+* 价值观分享
+  * [时间观](/md/life/values/时间观.md)
+  * [做力扣题目的感悟](/md/life/values/做力扣题目的感悟.md)
+  * [如何避免成为团队中最差的开发人员](/md/life/values/如何避免成为团队中最差的开发人员.md)
+  * [像炼钢一样锻炼自己](/md/life/values/像炼钢一样锻炼自己.md)
