@@ -4,6 +4,7 @@
 * [Mongo](/md/java/mongo/index.html)
 * [Redis](/md/java/redis/index.html)
 * [algothrim](/md/algothrim/index.html)
+* [分布式](/md/distributed/index.html)
 * [项目](/md/project/index.html)
 * [程序人生](/md/life/index.html)
 
