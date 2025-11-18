@@ -7,4 +7,5 @@
 * [分布式](/md/distributed/index.html)
 * [项目](/md/project/index.html)
 * [程序人生](/md/life/index.html)
+* [每天进步一点点](/md/progress/index.html)
 
